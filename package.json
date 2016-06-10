@@ -1,6 +1,6 @@
 {
   "name": "fx-sync",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Interact with Firefox Sync Servers",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   "author": "Zach Carter",
   "license": "APL 2.0",
   "dependencies": {
-    "browserid-crypto": "0.5.1",
+    "browserid-crypto": "0.8.0",
     "request": "2.27.0",
     "p-promise": "0.2.5",
     "fxa-js-client": "0.1.x",
