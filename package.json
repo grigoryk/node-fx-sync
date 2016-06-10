@@ -15,7 +15,7 @@
   "author": "Zach Carter",
   "license": "APL 2.0",
   "dependencies": {
-    "jwcrypto": "0.4.4",
+    "browserid-crypto": "0.5.1",
     "request": "2.27.0",
     "p-promise": "0.2.5",
     "fxa-js-client": "0.1.x",
